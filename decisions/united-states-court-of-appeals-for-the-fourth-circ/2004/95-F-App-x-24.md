@@ -1,0 +1,48 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "03-1809"
+decided: "2004-04-09"
+citations: ["95 F. App'x 24"]
+parties: ["POINT PCS, LLC, Plaintiff-Appellant, v. SEA HAVEN REALTY AND CONSTRUCTION, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/95/cases/0024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1287264
+cites_cases: ["113 S.Ct. 1489", "116 F.3d 91", "507 U.S. 380", "843 F.2d 808"]
+---
+
+# Point PCS, LLC v. Sea Haven Realty & Construction
+
+## Head matter
+
+POINT PCS, LLC, Plaintiff-Appellant, v. SEA HAVEN REALTY AND CONSTRUCTION, Defendant-Appellee.
+No. 03-1809.
+United States Court of Appeals, Fourth Circuit.
+Argued Feb. 24, 2004.
+Decided April 9, 2004.
+ARGUED: Neil Samuel Lowenstein, Vandeventer Black, LLP, Norfolk, Virginia, for Appellant. Charles Everett Thompson, II, Elizabeth City, North Carolina, for Appellee.
+Before WILKINSON, NIEMEYER and DUNCAN, Circuit Judges.
+Affirmed by unpublished PER CURIAM opinion.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+Appellant Point PCS, L.L.C. (“Point PCS”) challenges the district court’s order denying its motion for relief from judgment pursuant to Fed.R.Civ.P. 60, and its motion for stay of proceedings to enforce judgment pursuant to Fed.R.Civ.P. 62. Point PCS argues that its failure to prosecute was due to excusable neglect. Because we conclude that the district court did not abuse its discretion in denying the motions for relief from judgment and for stay of proceedings to enforce judgment, we affirm.
+I.
+Point PCS contracted with Appellee Sea Haven Realty and Construction (“Sea Haven”) to perform renovations on two retail stores in Nags Head, North Carolina. On October 1, 2001, Point PCS commenced an action against Sea Haven in the United States District Court for the District of New Jersey, claiming breach of contract and tortious interference with a contract. On February 13, 2002, the case was transferred by consent order to the Eastern District of North Carolina.
+Following the transfer, a significant amount of correspondence was sent to Point PCS. On March 15, 2002, the Clerk of Court for the Eastern District sent a letter to Point PCS’s counsel-of-record, Richard Walsh, pointing out the need to retain local counsel. On April 5, 2002, Sea Haven filed an Answer and Counterclaim, and served a copy on Walsh. On April 8, 2002, counsel for Sea Haven sent a letter to Walsh, reminding him that Sea Haven had filed an Answer and enclosing a proposed Discovery Plan. On April 12, 2002, the Clerk sent a Request for Discovery Plan to Walsh, pointing out that a mandatory discovery meeting was required by May 12, 2002. On May 13, 2002, counsel for Sea Haven sent a letter to Walsh reminding him about the pending First Discovery Request, and asking him to respond to the proposed Discovery Plan. On June 3, 2002, counsel for Sea Haven sent another letter to Walsh, requesting a response regarding the pending discovery issues. On June 21, 2002, the Clerk sent Walsh an Order directing him to associate local counsel, and warning that if Point PCS failed to associate local counsel by July 5, 2002, the case would be referred to the district judge for dismissal or other action. On July 3, 2002, Walsh sent a letter to the Clerk acknowledging receipt of the June 21 Order, and stating that Point PCS was retaining Neil Lowenstein as local counsel. However, Lowenstein did not file an appearance until March 3, 2003. All of the correspondence described above, including the June 21 Order Walsh acknowledged receiving, was sent to the same address of record.
+On August 9, 2002, Sea Haven filed a motion for entry of default on its counterclaim and for default judgment. Having not heard from Point PCS, the Clerk entered a default against it on September 11, 2002. On October 15, 2002, Sea Haven filed a motion to dismiss the complaint based on Point PCS’s failure to follow the local rules, respond to pleadings and communications, or take any other action. On January 7, 2003, the district court granted Sea Haven’s motion to dismiss and motion for entry of default judgment. A copy of the order and judgment was mailed to Walsh at the address to which all correspondence had been sent.
+On March 3, 2003, Point PCS filed its motions for relief from judgment and for stay of proceedings to enforce judgment. In its memorandum to the district court in support of the motions, Point PCS contended that following transfer of venue in February of 2002, “neither Point PCS nor its counsel of record received any notice whatsoever of pleadings having been filed by Sea Haven or with respect to any proceeding by or before the Court” until it received a copy of the order entering default judgment in favor of Sea Haven in January of 2003. J.A. 12. However, in the same memorandum, Point PCS stated that it responded to the court’s June 21, 2002 Order to associate local counsel. Point PCS offered the district court no explanation for these inconsistent statements.
+Further, on appeal, Point PCS changed its story again. In its brief, Point PCS admitted to receiving all pre-default pleadings and correspondence, and contends only that it did not receive any default related pleadings. During oral argument, counsel for Point PCS argued that the nonreceipt of default-related pleadings prevented Point PCS from participating in the default proceedings.
+II.
+Under Rule 60(b) of the Federal Rules of Civil Procedure, the court may relieve a party from a final judgment for “mistake, inadvertence, surprise, or excusable negleet” or “any other reason justifying relief’ from the judgment. Fed.R.Civ.P. 60(b). Denials of Rule 60(b) motions are reviewed for abuse of discretion. Heyman v. M.L. Mktg. Co., 116 F.3d 91, 94 (4th Cir.1997).
+A.
+The district court analyzed the Rule 60(b) motion for relief from the default judgment based on the approach set out in Augusta Fiberglass Coatings, Inc. v. Fodor Contracting Corp., 843 F.2d 808 (4th Cir.1988). In Augusta, we stated that “over the years this court has taken an increasingly liberal view of Rule 60(b)” where default judgments are at issue. Id. at 810. Default judgment is a particularly harsh result, and therefore “any doubt as to the propriety of giving [such] relief must be resolved in the movant’s favor when the movant bears no personal responsibility for the error which led to the default.” Id. at 811. Further, we held that “when the party is blameless, his attorney’s negligence qualifies as a ‘mistake’ or as ‘excusable neglect’ under Rule 60(b)(1).” Id. However, “[wjhen the party is at fault, the [system’s need for finality and efficiency in litigation] dominate[s] and the party must adequately defend its conduct in order to show excusable neglect.” Id.
+Point PCS contends that the district court erred when it found that Point PCS “shares responsibility for the conduct leading to the default in this case.” J.A. 93. The facts of this case, however, support the district court’s finding. Point PCS now acknowledges receipt of all pre-default pleadings and communications. This acknowledgement supports the district court’s finding that Point PCS was aware of the proceedings and was involved in the decision-making process. Further, in his deposition, Point PCS member Larry Paragano stated that Point PCS associated local counsel pursuant to the June 2002 Order. While local counsel did not enter the case until March 3, 2003, this statement of active involvement belies the contention that Point PCS itself had no responsibility for the conduct in this case. On these facts, the district court did not abuse its discretion in denying the Rule 60(b) motion for relief from the default judgment.
+B.
+Point PCS’s Rule 60(b) motion addresses the dismissal of its complaint for failure to follow the local rules and failure to prosecute, as well as the default judgment on the counterclaim. As noted by the district court, the foregoing analysis under Augusta applies to 60(b) motions for relief from default judgments. When considering the “excusable neglect” standard as applied to the dismissal of the complaint, the district court correctly applied the stricter standard articulated in Pioneer Inv. Servs. Co. v. Brunswick Assocs. Ltd. P’ship, 507 U.S. 380, 394, 396, 113 S.Ct. 1489, 123 L.Ed.2d 74 (1993) (finding that the determination of what constitutes “excusable neglect” is an equitable one, and that “clients must be held accountable for the acts and omissions of them attorneys”). Point PCS never responded to Sea Haven’s Answer and Counterclaim, nor did it respond to any communication except the June 21 Order to associate local counsel. On appeal, Point PCS abandoned even the inconsistently asserted defense that it did not receive the pre-default pleadings and communications. In any event, the record is clear that from February 13, 2002 to March 3, 2003, Point PCS took no action regarding its complaint, even with respect to checking the status of its action. Therefore, the district court did not abuse its discretion when it found that Point PCS failed to demonstrate that the dismissal of the complaint was the result of excusable neglect.
+C.
+Point PCS’s Rule 62(b) motion for stay of proceedings was denied because the district court denied the Rule 60(b) motion for relief from judgment. The denial of the Rule 60(b) motion was proper, and the appeal of the district court’s denial of the Rule 62(b) motion is dismissed as moot.
+III.
+Based on the foregoing, we conclude that the district court did not abuse its discretion in denying the motions, and the judgment of the district court is affirmed.
+AFFIRMED.
