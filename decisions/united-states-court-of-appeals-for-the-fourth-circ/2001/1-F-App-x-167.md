@@ -1,0 +1,37 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "00-4372"
+decided: "2001-01-09"
+citations: ["1 F. App'x 167"]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Stephen Wyatt GREGORY, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/1/cases/0167-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 136837
+cites_cases: ["119 S.Ct. 1279", "142 F.3d 702", "143 L.Ed.2d 372", "161 F.3d 250", "18 U.S.C. § 3585", "18 U.S.C. § 871", "503 U.S. 329", "518 U.S. 81", "526 U.S. 1031", "58 F.3d 115", "96 F.3d 102", "966 F.2d 868", "983 F.2d 558", "984 F.2d 658"]
+---
+
+# United States v. Gregory
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Stephen Wyatt GREGORY, Defendant-Appellant.
+No. 00-4372.
+United States Court of Appeals, Fourth Circuit.
+Submitted Oct. 31, 2000.
+Decided Jan. 9, 2001.
+James R. Fox, Jory & Smith, L.C., El-kins, WV, for appellant. Melvin W. Kahle, Jr., United States Attorney, Sherry L. Muncy, Assistant United States Attorney, Elkins, WV, for appellee.
+Before WILKINS, LUTTIG, and MICHAEL, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+Stephen Wyatt Gregory appeals the sentence imposed after his guilty plea to one count of threatening the life of the President of the United States in violation of 18 U.S.C. § 871(a) (1994). Gregory challenges the district court’s decision to depart upward from the applicable guideline range under U.S. Sentencing Guidelines Manual § 4A1.3, p.s. (1998), the extent of that departure, and the district court’s direction to deny credit for time served prior to sentencing.
+The district court determined that Gregory’s criminal history category underrepresented his criminal history. In particular, the district court noted that Gregory had shown a consistent inability to control his violent tendencies, that his record demonstrates a likelihood of recidivism, and that the violent incidents in his past, including a 1977 incident where Gregory took nine people hostage in a bank, and a 1979 incident in which he fired shots into a home and in an ensuing police chase committed vehicular homicide, demonstrated that he was a danger to himself and the community. The district court clearly identified the aggravating factors and reasons for departing under USSG § 4A1.3. United States v. Rusher, 966 F.2d 868, 882 (4th Cir.1992) (the court should clearly identify the aggravating factors and its reasons and connect them to permissible grounds for departure under USSG § 4A1.3). The district court did not abuse its discretion in deciding to depart upward based upon Gregory’s entire criminal history, his tendency toward violence, and potential danger to himself and the community. Koon v. United States, 518 U.S. 81, 91, 116 S.Ct. 2035, 135 L.Ed.2d 392 (1996) (citing standard).
+Next, Gregory challenges the extent of the departure. Gregory argues that the court failed to comply with the view expressed by this court in Rusher, 966 F.2d at 884, that in departing upward in criminal history, the district court should depart “first to the next higher category and ... move on to a still higher category only upon a finding that the next higher category fails adequately to reflect the seriousness of the defendant’s record.” See also United States v. Cash, 983 F.2d 558, 561 n. 7 (1992). He also argues that the district court disregarded the role of his mental impairments in his criminal history.
+The district court’s decision on the extent of departure is reviewed for an abuse of discretion. United States v. Hairston, 96 F.3d 102, 106 (4th Cir.1996). The court made findings on the record that it considered that certain mental health conditions, such as Post Traumatic Stress Disorder, may have motivated Gregory to commit the offenses. Therefore the record belies Gregory’s claims that the court disregarded these conditions.
+As to the extent of departure, the district court stated that it considered the method and extent of departure, and that in its opinion a criminal history category of VI was the most appropriate. The court stated its reasons for the extent of departure as the Defendant’s criminal history and his propensity to commit future crimes. The court stated that it considered the interceding categories, but rejected them as insufficient because they did not provide a sentence that reflected the seriousness of the Defendant’s criminal conduct or propensity for future criminal acts. The court did not engage in a level-by-level discussion of why each succeeding category from II through VI was insufficient.
+A summary explanation, such as that advanced by the district court, may not always be reversible error. United States v. Lambert, 984 F.2d 658, 663 (5th Cir. 1993) (en banc) (noting that it will sometimes be evident from the stated grounds for departing why a particular departure was justified). It is evident that the district court considered the 1977 and 1979 conduct in arriving at criminal history category VI. However, when adding the criminal history points for those convictions, the criminal history category would only be increased to category IV. United States v. Terry, 142 F.3d 702, 707 (4th Cir.1998) (noting statutory requirement that departure be reasonable under the circumstances and stating that in determining what is reasonable the sentencing court should analogize to the Sentencing Guidelines). We therefore find the record at sentencing and the district court’s summary explanation to be inadequate “to allow informed appellate review” beyond criminal history category IV. Rusher, 966 F.2d at 882. Therefore, the extent of the upward departure cannot be sustained on the authority of Rusher and Cash. United States v. Lawrence, 161 F.3d 250, 256 (4th Cir.1998) (vacating and remanding sentence because the district court did not explain which criminal conduct was unaccounted for or the method it used to reach the guideline range it chose), cert. denied, 526 U.S. 1031, 119 S.Ct. 1279, 143 L.Ed.2d 372 (1999); United States v. Harrison, 58 F.3d 115, 118 (4th Cir.1995) (finding that an upward departure could not be sustained under Rusher when the district court did not make level-by-level findings to justify its departure). Accordingly, we remand for a new sentencing proceeding, to allow the district court to explain its rationale more thoroughly. We express no view about what degree of departure would be appropriate.
+The district court stated that Gregory should not receive credit for time served since his arrest in April 1999. Both the Appellant and Government recognize that the district court was without authority to order that Gregory not receive credit for time served prior to sentencing. The Attorney General, through the Bureau of Prisons (BOP), is authorized to award credit for time served at the time the defendant begins to serve his federal sentence. 18 U.S.C. § 3585(b) (1994); United States v. Wilson, 503 U.S. 329, 333-34, 112 S.Ct. 1351, 117 L.Ed.2d 593 (1992). A district court has no authority to compute credit at sentencing. Wilson, 503 U.S. at 333-34.
+Based on the foregoing, we vacate Gregory’s sentence and remand with direction that an upward departure must be made following the dictates of Rusher and Cash, and to compute the sentence in accordance with this opinion. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the court and argument would not aid the decisional process.
+VACATED AND REMANDED.
