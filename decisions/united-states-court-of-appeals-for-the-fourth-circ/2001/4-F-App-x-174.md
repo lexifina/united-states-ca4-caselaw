@@ -1,0 +1,48 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "00-1696, 00-1563, 00-1715"
+decided: "2001-02-15"
+citations: ["4 F. App'x 174"]
+judges: ["Before WILKINS, DIANA GRIBBON MOTZ, and KING, Circuit Judges."]
+parties: ["Edith HORNBERGER, Petitioner-Appellant, v. COMMISSIONER OF INTERNAL REVENUE, Respondent-Appellee. Commissioner of Internal Revenue, Petitioner-Appellant, v. Edna B. Hunter, Estate of Edna B. Hunter, Deceased, Shirley Hunter, Administratrix, Respondent-Appellee. Commissioner of Internal Revenue, Petitioner-Appellant, v. E.V. Hunter Trust, Respondent-Appellee."]
+source_url: "https://static.case.law/f-appx/4/cases/0174-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 160786
+cites_cases: ["460 U.S. 370"]
+---
+
+# Hornberger v. Commissioner
+
+## Head matter
+
+Edith HORNBERGER, Petitioner-Appellant, v. COMMISSIONER OF INTERNAL REVENUE, Respondent-Appellee. Commissioner of Internal Revenue, Petitioner-Appellant, v. Edna B. Hunter, Estate of Edna B. Hunter, Deceased, Shirley Hunter, Administratrix, Respondent-Appellee. Commissioner of Internal Revenue, Petitioner-Appellant, v. E.V. Hunter Trust, Respondent-Appellee.
+Nos. 00-1696, 00-1563, 00-1715.
+United States Court of Appeals, Fourth Circuit.
+Argued Jan. 26, 2001.
+Decided Feb. 15, 2001.
+ARGUED: Craig Dennis Bell, McGuire Woods, L.L.P., Richmond, VA, for appellant. John A. Dudeck, Jr., Tax Division, United States Department of Justice, Washington, DC, for appellee.
+ON BRIEF: Paula M. Junghans, Acting Assistant Attorney General, Teresa E. McLaughlin, Tax Division, United States Department of Justice, Washington, DC, for appellee.
+Before WILKINS, DIANA GRIBBON MOTZ, and KING, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+Edith Hornberger, the sole beneficiary of her grandmother’s estate, paid interest on estate tax owed by the estate and deducted the amount of this interest on her amended 1988 income tax return. In 1992, the Internal Revenue Service refunded most of this interest to the estate. Hornberger appeals the judgment of the United States Tax Court that she had to include the amount of this refund in her 1992 income. Finding that the tax benefit rule mandates inclusion of the amount of this refund in Hornberger’s 1992 income, we affirm.
+I.
+As the Tax Court found, the parties stipulated to the following facts.
+Edna Hunter died intestate in 1984, leaving her granddaughter, Edith Hornberger, as the sole beneficiary of Hunter’s estate, which was ultimately valued at over $20 million. In November 1986, Hornberger placed all of the assets that she had received from her grandmother’s estate into a trust.
+Because much of Hunter’s estate was tied up in real estate, the estate did not initially pay all of the estate tax assessed against it. Rather, it made periodic payments of the estate tax it owed, and interest on these delayed estate tax payments.
+In 1988, Hornberger’s trust paid to the Internal Revenue Service a portion of the estate tax and interest owed by the Hunter estate, including $2,357,493 in interest on estate tax. At the time, the trust was considered a complex trust and it took a deduction for this interest payment. However, in 1992, the IRS, the trust, and Hornberger agreed that the trust should be considered a grantor trust (a pass-through taxable entity) and Hornberger then deducted the $2,357,493 interest payment on her own amended 1988 income tax return.
+In October 1991, the estate and the IRS entered into a settlement agreement in which the estate tax liability of the estate was substantially reduced. Pursuant to that agreement, in February 1992 the IRS issued a $10,364,431 refund to the estate. That refund included a refund of $2,290,469 of the $2,357,493 interest deducted by Hornberger on her amended 1988 income tax return. The estate immediately turned the entire $10,364,431 refund cheek over to Hornberger, as a sole beneficiary of the estate; she in turn deposited it in her trust. No entity — not the estate, not the trust, and not Hornberger — included the $2,290,469 interest refund in income reportable on an income tax return.
+The Commissioner mailed notices of deficiency to Hornberger, the estate, and the trust. All three petitioned the Tax Court, asserting that none of them owed any income tax. The Tax Court rejected this contention, finding that the tax benefit rule rendered the 1988 deduction of estate tax interest fundamentally inconsistent with the 1992 refund of that same estate tax interest. The Tax Court reasoned that, regardless of who was the payee of the check for refunded interest from the IRS, Hornberger, who had deducted the interest on her 1988 income tax return and who ultimately received the entire amount of the interest refund, must include that amount in her 1992 income. Hornberger appeals, and the Commissioner has filed protective cross appeals against the estate and trust.
+II.
+The tax benefit rule is a judicially created doctrine, seeking to repair some of the inflexibility inherent in the annual accounting system. Hillsboro Nat’l Bank v. Comm’r, 460 U.S. 370, 376, 103 S.Ct. 1134, 75 L.Ed.2d 130 (1983). Often, a completed transaction in one tax year will unexpectedly reopen in a subsequent tax year, rendering the first year’s tax return improper. In particular, a properly deductible expense in one year may, in a subsequent year, prove not to have been a deductible expense at all.
+For example, a bad debt deducted in one year may be unexpectedly paid in a subsequent year. Strict adherence to the annual accounting system would allow a taxpayer a deduction in the first year, but would not require the debt’s repayment to be correspondingly reported as income in the subsequent year. Accordingly, “to achieve rough transactional parity” between taxpayers, irrespective of the timing of events, the Supreme Court has established the tax benefit rule under which a subsequent event can “ ‘cancel out’ an earlier deduction.” Id. at 383. Such a cancelation will occur only when a subsequent event is “fundamentally inconsistent with the premise on which the deduction was initially based.” Id.
+Hornberger contends that the tax benefit rule should not be applied to her because the estate, and not Hornberger herself, was the payee of the interest refund check. In other words, Hornberger argues that, because the refund check was made payable to an estate of which she was the sole beneficiary and not to her personally, the refund of interest paid on delinquent estate tax was not “fundamentally inconsistent” with her earlier deduction of this interest.
+Thus, the sole question before us is whether the estate’s receipt of a refund of more than $2 million of interest paid on estate tax is “fundamentally inconsistent with the premise on which” Hornberger’s earlier deduction of $2 million of interest paid on estate tax was “initially based.” Id. To state the question is to answer it. The Internal Revenue Code permitted Hornberger’s trust (and then Hornberger, herself, when the trust was recognized to be a grantor trust), to pay and deduct interest on the estate’s delinquent estate tax. Hornberger has conceded that the $2,357,495 interest deduction on her amended 1988 income tax return constituted “interest” on the Hunter estate’s “estate tax deficiency.” Hence, the only reason that Hornberger could deduct $2,357,495 on her 1988 income tax return was that she, through her trust, had paid this amount of interest on the estate’s estate tax liability. The IRS’s subsequent refund of this interest in 1992 was “fundamentally inconsistent” with the premise upon which the earlier deduction of this interest was based.
+Apparently, Hornberger believes that because she deducted the interest and the interest refund was paid to the estate, the tax benefit rule does not apply. The Tax Court properly noted that Hornberger has stipulated that, although the refund check was made payable to the estate, the estate immediately paid it over to her — so Hornberger did actually both deduct the interest in her 1988 return and recover the refund of that interest payment in 1992. But even if Hornberger had not immediately recovered the refund, the tax benefit rule would apply and require her to include the amount refunded as income.
+This is so because, in Hillsboro, the Supreme Court expressly held that application of the tax benefit rule does not require “recovery” of funds in a later year. All that is necessary is that “the later event” — here the refund of interest paid on estate tax — is “fundamentally inconsistent with the premise on which the deduction was initially based.” Therefore, even if Hornberger had not immediately recovered the refunded monies, the tax benefit rule would apply because the 1992 refund of interest eliminated the “sole basis” for the earlier deduction of this interest.
+In sum, Hornberger’s claim that her deduction of interest paid on estate tax is not inconsistent with refund of that interest to the estate ignores reality and precedent. She paid and deducted the interest; in a later tax year, the IRS refunded that interest. Accordingly, the refund was “fundamentally inconsistent” with the deduction; the refund, therefore, “will ‘cancel out’ the deduction.” Id. The Tax Court correctly held that Hornberger must include the amount of the interest refund, $2,290,469, in her 1992 income.
+AFFIRMED.
+The record does not reveal the statutory basis for Hornberger’s payment and deduction of the Estate’s interest obligation but the parties have stipulated that both Hornberger's payment and deduction of the interest on estate tax were proper.
