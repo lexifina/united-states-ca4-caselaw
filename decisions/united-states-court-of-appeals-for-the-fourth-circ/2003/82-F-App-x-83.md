@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "03-7510"
+decided: "2003-12-05"
+citations: ["82 F. App'x 83"]
+parties: ["Charles Justin UTZ, Petitioner—Appellant, v. Gene JOHNSON, Director of Department of Corrections, Respondent—Appellee."]
+source_url: "https://static.case.law/f-appx/82/cases/0083-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1197994
+cites_cases: ["252 F.3d 676", "28 U.S.C. § 2253", "28 U.S.C. § 2254", "529 U.S. 473", "537 U.S. 322"]
+---
+
+# Utz v. Johnson
+
+## Head matter
+
+Charles Justin UTZ, Petitioner—Appellant, v. Gene JOHNSON, Director of Department of Corrections, Respondent—Appellee.
+No. 03-7510.
+United States Court of Appeals, Fourth Circuit.
+Submitted Nov. 19, 2003.
+Decided Dec. 5, 2003.
+Charles Justin Utz, Appellant, pro se.
+Michael Thomas Judge, Office of the Attorney General of Virginia, Richmond, Virginia, for Appellee.
+Before WILKINSON and GREGORY, Circuit Judges, and HAMILTON, Senior Circuit Judge.
+Dismissed by unpublished per curiam opinion.
+Unpublished opinions are not binding precedent in this circuit. See Local Rule 36(c).
+
+## Majority (PER CURIAM.)
+
+PER CURIAM.
+Charles Justin Utz, a state prisoner, seeks to appeal the district court’s order accepting a magistrate judge’s recommendation to dismiss his petition filed under 28 U.S.C. § 2254 (2000), as untimely. The order is not appealable unless a circuit justice or judge issues a certificate of appealability. 28 U.S.C. § 2253(c)(1) (2003). A certificate of appealability will not issue absent “a substantial showing of the denial of a constitutional right.” 28 U.S.C. § 2253(c)(2) (2000). A prisoner satisfies this standard by demonstrating that reasonable jurists would find that his constitutional claims are debatable and that any dispositive procedural rulings by the district court also are debatable or wrong. See Miller-El v. Cockrell, 537 U.S. 322, 336, 123 S.Ct. 1029, 154 L.Ed.2d 931 (2003); Slack v. McDaniel, 529 U.S. 473, 484, 120 S.Ct. 1595, 146 L.Ed.2d 542 (2000); Rose v. Lee, 252 F.3d 676, 683 (4th Cir.2001). We have independently reviewed the record and conclude that Utz has not made the requisite showing. Accordingly, we deny a certificate of appealability and dismiss the appeal. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the court and argument would not aid the decisional process.
+DISMISSED
