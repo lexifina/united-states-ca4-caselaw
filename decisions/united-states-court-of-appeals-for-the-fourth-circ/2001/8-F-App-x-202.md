@@ -1,0 +1,47 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "00-1391"
+decided: "2001-05-02"
+citations: ["8 F. App'x 202"]
+parties: ["Jeffrey L. MILLER, Personal Representative of the Estate of Meredith E. Miller, deceased, Plaintiff-Appellant, v. Charles E. SMITH Management, Incorporated, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/8/cases/0202-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 147375
+cites_cases: ["172 F.3d 863", "28 U.S.C. § 1291", "304 U.S. 64", "540 S.E.2d 134", "579 F.2d 873"]
+---
+
+# Miller v. Charles E. Smith Management, Inc.
+
+## Head matter
+
+Jeffrey L. MILLER, Personal Representative of the Estate of Meredith E. Miller, deceased, Plaintiff-Appellant, v. Charles E. SMITH Management, Incorporated, Defendant-Appellee.
+No. 00-1391.
+United States Court of Appeals, Fourth Circuit.
+Argued Feb. 26, 2001.
+Decided May 2, 2001.
+Christopher Howard Mitchell, Stein, Mitchell & Mezines, L.L.P., Washington, DC, for appellant. John Henry Carstens, Jordan, Coyne & Savits, Fairfax, VA, for appellee. ON BRIEF: Robert F. Muse, Richard A. Bussey, Stein, Mitchell & Mezines, L.L.P., Michael H. Gottesman, Georgetown University Law Center, Washington, DC, for appellant.
+Before WIDENER, DIANA GRIBBON MOTZ, and KING, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+This tragic diversity case involves a property manager’s liability in tort for two allegedly fraudulent statements made to a prospective tenant regarding the safety of an apartment complex. The district court awarded a directed verdict to the defendant, Charles E. Smith Management, Inc. (“Smith”), with respect to one such statement, and a jury found in the defendant’s favor with respect to the other statement. The plaintiff, Jeffrey Miller, as the Personal Representative of the Estate of Meredith E. Miller (the “Estate”), has challenged both elements of the adverse judgment. For the reasons set forth below, we affirm the judgment in its entirety-
+I.
+In October 1994, a young woman, Meredith Miller, was murdered in the parking lot of her Arlington, Virginia apartment complex by two unknown assailants who were attempting to steal her car. Miller’s father, acting on behalf of her Estate, brought suit in district court against Smith, the property manager of the apartment complex, advancing various theories of liability. The Estate alleged, inter alia, that Smith’s agents made false representations regarding the building’s safety in order to induce Miller to enter into a lease agreement, and that such misrepresentations were the proximate cause of her untimely death.
+The district court initially dismissed the Estate’s suit for failure to state a claim, and the Estate appealed. In an unpublished opinion filed on January 26, 1999, we affirmed the dismissal of the Estate’s negligence claim, “declining] to extend the landlord’s liability beyond the limits set by the Supreme Court of Virginia!.]” See Miller v. Charles E. Smith Mgmh, Inc., 172 F.3d 863 (4th Cir.1999) (per curiam). By that opinion, however, we reversed the dismissal of the Estate’s suit as to certain of the fraudulent misrepresentation claims. Specifically, we held that two allegedly false statements made by Smith’s agents were actionable under Virginia law: first, that if significant criminal activity ever occurred on or near the premises, Smith
+would notify its tenants promptly; and second, that roaming security guards would constantly patrol the premises. Id. Accordingly, the Estate’s fraudulent misrepresentation claims arising from those statements were remanded to the district court for further proceedings. Id.
+II.
+Upon remand, the district court awarded a directed verdict in Smith’s favor with respect to the statement concerning roaming security guards. Although the Estate produced evidence that only one unarmed “courtesy patrol” guard was on duty at any given time, the judge determined “that there was no misrepresentation in that regard.” J.A. 748. The statement may have been misleading — creating the false impression that more than one security guard would be actively patrolling the premises at all times — but, the trial judge concluded, it did not constitute an actionable misrepresentation of fact. A single remaining fraud claim, arising from Smith’s alleged promise to notify tenants of criminal activity on the premises, was presented to the jury, which returned a verdict in favor of Smith. Judgment was entered upon the jury verdict on March 2, 2000. Identifying numerous errors purportedly committed by the trial court, the Estate brought this appeal. We possess jurisdiction pursuant to 28 U.S.C. § 1291.
+III.
+On appeal, the Estate primarily contends that the district court erred by granting a directed verdict to Smith with respect to its alleged misrepresentation concerning roaming security guards. The Estate also catalogues myriad evidentiary rulings and jury instructions that it regards as erroneous as to the remaining fraudulent misrepresentation claim presented to, and ultimately rejected by, the jury.
+Although the specific issues presented for review were briefed extensively by the parties, we need not address them individually here. In January 2001, while this appeal was pending, the Supreme Court of Virginia rendered a decision which essentially compels our affirmance of the district court in this case. See Yuzefovsky v. St. John’s Wood Apts., 540 S.E.2d 134 (Va. 2001). Like Miller, the plaintiff in Yuzefovsky was assaulted on the premises of his apartment complex and brought suit against his landlord; Yuzefovsky argued, inter alia, that his landlord’s assurances that the property was crime-free and patrolled by police officers constituted actionable fraud. Id. at 137. Sustaining the defendant’s demurrer, the trial court dismissed Yuzefovsky’s case with prejudice. On appeal, the Supreme Court of Virginia initially determined that the agent’s statements were not mere opinions, but instead constituted actionable statements of fact. Id. at 142 (“[T]he specific statement that the development was crime-free, that police officers lived there, and that police vehicles patrolled the development are not matters of opinion or puffing, especially when, as is alleged, the employees knew these statements to be objectively false.”). The court, however, proceeded to conclude that the damages resulting from the criminal assault were “too remote” to give rise to tort Lability, stating:
+[E]ven if these statements were fraudulent, there was no causal nexus between the fraud and the subsequent injuries resulting from the assault by a third party unknown to St. John’s Wood. St. John’s Wood contend that at best the allegations constitute a claim for fraudulent inducement to enter into a contráctil] ... We agree with St. John’s Wood.
+% í*í :¡í
+It is clear that the duty to refrain from making these statements relates to the contract Yuzefovsky was induced to sign, and not from a common law duty.
+Id. (emphasis added).
+In rejecting Yuzefovsky’s fraud claim, the Supreme Court of Virginia noted the substantial time lapse between the-false statements and the assault. We read nothing in the court’s decision to indicate, however, that the viability of a fraud claim rests on temporal contingencies. That is, the same result presumably would have been reached if, instead of a year and a half, the plaintiff had lived in the building for four months prior to the attack. As a federal court exercising diversity jurisdiction, we are constrained to apply the law of Virginia as it would be applied by the Supreme Court of Virginia were the case before it. See Nature Conservancy v. Machipongo Club, Inc., 579 F.2d 873, 875 (4th Cir.1978) (citing Erie R.R. v. Tompkins, 304 U.S. 64, 58 S.Ct. 817, 82 L.Ed. 1188 (1938)). We accordingly conclude that the holding and reasoning of the Yuzefovsky decision preclude the Estate from recovering under a fraudulent misrepresentation theory. Quite simply, Yuzefovsky instructs that the damages resulting from Miller’s October 1994 murder were “too remote” from the June 1994 misrepresentations to give rise to liability in tort.
+IV.
+In light of the decision in Yuzefovsky, it is clear that the Estate cannot prevail in its fraud claim. Even if patently false, the statements regarding the building’s “roaming security patrol” could not, as a matter of law, be considered the proximate cause of Meredith Miller’s death. Thus, we must affirm the district court’s award of a directed verdict in this regard. Similarly, we must affirm the district court’s judgment as to the fraud claim resolved by the jury, notwithstanding any potentially erroneous evidentiary rulings or jury instructions. Since the Estate’s fraud claim was effectively precluded by Yuzefovsky, we need not evaluate the merits of each individual assertion of error; to the extent that any were committed, such errors must be considered harmless. Accordingly, we affirm the district court’s judgment in its entirety.
+AFFIRMED.
+The Estate also sought statutory relief under Virginia’s Consumer Protection Act, Va.Code § 59.1-196 et seq. Although our decision in 1999 remanded this claim along with the fraudulent misrepresentation claim, the trial judge subsequently granted Smith’s motion for judgment as a matter of law on this issue. It concluded that because the Act did not provide for survivor actions, the Estate lacked standing.
