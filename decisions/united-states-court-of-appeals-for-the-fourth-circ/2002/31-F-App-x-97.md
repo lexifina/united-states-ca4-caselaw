@@ -1,0 +1,38 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "01-1868"
+decided: "2002-03-11"
+citations: ["31 F. App'x 97"]
+parties: ["Richard L. HOLDCRAFT, Plaintiff-Appellant, v. COUNTY OF FAIRFAX, VIRGINIA, Defendant-Appellee."]
+source_url: "https://static.case.law/f-appx/31/cases/0097-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 434360
+cites_cases: ["29 U.S.C.A. §§ 621-634", "450 U.S. 248", "580 F.2d 1150", "618 F.2d 1062", "632 F.2d 316", "933 F.2d 231"]
+---
+
+# Holdcraft v. County of Fairfax
+
+## Head matter
+
+Richard L. HOLDCRAFT, Plaintiff-Appellant, v. COUNTY OF FAIRFAX, VIRGINIA, Defendant-Appellee.
+No. 01-1868.
+United States Court of Appeals, Fourth Circuit.
+Submitted Feb. 25, 2002.
+Decided March 11, 2002.
+John W. Karr, Theodore S. Allison, Karr & Allison, P.C., Washington, D.C., for Appellant. David P. Bobzien, County Attorney, Robert Lyndon Howell, Deputy County Attorney, Cynthia L. Tianti, Assistant County Attorney, Fairfax, Virginia, for Appellee.
+Before WILLIAMS and KING, Circuit Judges, and HAMILTON, Senior Circuit Judge.
+Affirmed by unpublished PER CURIAM opinion.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+Richard L. Holdcraft appeals from the district court’s order granting summary judgment in favor of the County of Fair-fax, Virginia (“County”), and dismissing his employment discrimination action alleging violations of Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C.A. § 2000e-5 (West 1994 & Supp. 2001), and the Age Discrimination in Employment Act (ADEA), 29 U.S.C.A. §§ 621-634 (West 1999 & Supp.2001). Holdcraft alleges that the County unlawfully discriminated against him on the basis of his gender and age when he applied for and was not selected as the best qualified applicant for the position of Program Manager, Occupational Health and Safety Center in the County’s Fire and Rescue Department.
+Our review of the record and the district court’s opinion discloses that this appeal is without merit. We find that, even assuming arguendo that Holderaft established a prima facie case of gender or age discrimination, he failed to rebut the legitimate, nondiscriminatory reasons the County proffered to support its decision to select the other candidate over him for the position at issue. Texas Dep’t of Community Affairs v. Burdine, 450 U.S. 248, 254-56, 101 S.Ct. 1089, 67 L.Ed.2d 207 (1981); Conkwright v. Westinghouse Elec. Corp., 933 F.2d 231, 234-35 (4th Cir.1991). Specifically, deposition testimony and supporting documentation established the County relied on rank-ordering of candidates by a review panel, based on objective reviews of documentation and subjective interviews during which all candidates were presented with the same questions and rated individually on their answers. Although both Holderaft and Arndt, the candidate ultimately selected, were qualified for the Program Manager position, the final tally of the scores of the initial interview placed Arndt well above Holderaft, who never made it to the second interview round because his score was not among the top three highest.
+In addition, while Holderaft complains he possessed superior qualifications, his perception of himself, without evidence to support it, is not relevant. Smith v. Flax, 618 F.2d 1062, 1067 (4th Cir.1980). There was evidence that Arndt’s qualifications and prior work experience on a Wellness/Fitness Committee of the International Association of Fire Fighters were directly and specifically related to the Program Manager position, and more suited to the County’s attested to desire to hire an individual with a strong background in health and wellness. In a deposition, Holderaft agreed that the selection panel stressed the health and wellness aspect of the position during his interview, and further admitted that Arndt’s credentials in this area were stronger than his.
+We find that there is no evidence that the two raters in the second and final interview were motivated by any desire other than to select the candidate they felt was the best suited for the position. Gaines, who made the final decision to appoint Arndt to the position, testified that his choice of her was based on her technical background, her prior work experience with the International Association of Firefighters (specifically, her work in the Health and Wellness initiative), the fact that she had a master’s degree and was published in the Journal of American Medicine, and that her vision of her potential role as Program Manager coincided with his. He testified that in his opinion, Arndt’s responses to the interview questions demonstrated an ability to think like a business manager while at the same time expressing an affinity for firefighters and an understanding of their needs. There is no evidence that Gaines ever met Hold-craft, or that he knew that Holdcraft was within a protected group.
+We further note that Arndt scored the highest within each individual interview. If Arndt had not been selected, or had declined the offer, the next three ranked individuals in line for the job before Hold-craft all were males over the age of forty. Given the undisputed evidence in this case, we agree with the district court that Hold-craft clearly is unable to demonstrate that the County’s selection of Arndt was pretext for discrimination or that the County’s failure to hire him was motivated by age or gender discrimination.
+As the district court noted, courts do not sit as super personnel departments second guessing an employer’s perceptions of an employee’s qualifications. Smith v. University of N. Carolina, 632 F.2d 316, 345-46 (4th Cir.1980). The law does not require an employer to make, in the first instance, employment choices that are wise, rational, or even well-considered, as long as they are nondiscriminatory. Powell v. Syracuse Univ., 580 F.2d 1150, 1156-57 (2d Cir.1978). Because the County set forth legitimate, nondiscriminatory reasons for hiring Arndt rather than Holdcraft, and because Hold-craft failed to promulgate evidence on which a reasonable jury could find the proffered reasons were a pretext for discrimination, we find that the district court did not improvidently grant summary judgment to the County on Holdcraft’s age or gender discrimination claims. Accordingly, we affirm the district court’s order granting the County’s motion for summary judgment. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the court and argument would not aid the decisional process.
+AFFIRMED.
+. Holdcraft's allegation that two of the scores given him by one of the selection panelists in the first interview appear to have been changed has no evidentiary support because, as the County notes in its brief, even adding the two points to Holdcraft's score still would have placed him fifth out of the seven candidates and he would not have advanced to the second round of interviews. Nor is Hold-craft’s claim that the interview scores were manipulated by some individuals on the panels supported by evidence, given that all the raters testified unequivocally that they based their scoring on the answers to the interview questions, and that they did so independently of any other rater.
+. Holdcraft’s allegations that one of the raters manipulated the first round of interview scores do nothing to advance his claims of age or gender discrimination because that rater accorded another candidate, a male over the age of forty, a higher score in the initial round of interviews than that which he accorded Arndt.
