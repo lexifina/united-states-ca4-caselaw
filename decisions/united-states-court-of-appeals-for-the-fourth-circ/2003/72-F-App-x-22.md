@@ -1,0 +1,43 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "02-1741"
+decided: "2003-07-31"
+citations: ["72 F. App'x 22"]
+parties: ["FIBERLINK COMMUNICATIONS CORPORATION, Plaintiff-Appellee, v. John Patrick James MAGARITY, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/72/cases/0022-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 141806
+cites_cases: ["2001 WL 1658914", "24 Fed.Appx. 178", "28 U.S.C. § 46", "28 U.S.C.A. § 636", "668 F.2d 100", "974 F.2d 502", "989 F.2d 1390"]
+---
+
+# Fiberlink Communications Corp. v. Magarity
+
+## Head matter
+
+FIBERLINK COMMUNICATIONS CORPORATION, Plaintiff-Appellee, v. John Patrick James MAGARITY, Defendant-Appellant.
+No. 02-1741.
+United States Court of Appeals, Fourth Circuit.
+Argued April 1, 2003.
+Decided July 31, 2003.
+ARGUED: David Gant Shuford, Leclair Ryan, P.C., Richmond, Virginia, for Appellant. Thomas S. Biemer, Dilworth Paxson, L.L.P., Philadelphia, Pennsylvania, for Appellee. ON BRIEF: Charles M. Sims, Leclair Ryan, P.C., Richmond, Virginia, for Appellant. Joshua D. Groff, Dilworth Paxson, L.L.P., Philadelphia, Pennsylvania, for Appellee.
+Before WIDENER, LUTTIG, and WILLIAMS, Circuit Judges.
+Judge Luttig was originally assigned to the panel in this case but did not hear the case. The decision is filed by quorum of the panel pursuant to 28 U.S.C. § 46(d).
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+John Patrick James Magarity appeals the magistrate judge’s ruling, on remand following an earlier appeal in this case, in favor of Fiberlink Communications Corporation. The magistrate judge held that any claim by Magarity based on a breach of his employment contract with Fiberlink was barred by the Virginia statute of limitations. Magarity argues, contrary to his argument on his previous appeal, that no statute of limitations applies to his claim. Because Magarity could have raised this argument on his previous appeal, it is inappropriate to consider it on this second appeal. Accordingly, we affirm the judgment of the magistrate judge.
+A detailed recitation of the facts underlying this case is contained in our previous opinion, Fiberlink Communications Corp. v. Magarity, No. 01-1425, 24 Fed.Appx. 178, 2001 WL 1658914 (4th Cir. Dec. 27, 2001) (unpublished per curiam opinion) (Fiberlink I). Relevant to this appeal, on March 28, 2000, Fiberlink filed a complaint against Magarity in the United States District Court for the Eastern District of Virginia. Magarity filed a counterclaim alleging that Fiberlink breached its employment contract with him by failing to deliver common stock to him as a “signing bonus.” After a bench trial, the magistrate judge determined that Magarity’s claim accrued in 1997, and applying the California two-year statute of limitations, dismissed the claim as time-barred. Magarity appealed to this court. On that appeal, Magarity did not challenge the necessary predicate of the magistrate judge’s ruling — that Magarity’s claim was a claim at law, and thus, subject to a statute of limitations. Instead, he first argued that only the Virginia statute of limitations applied because “his claim is governed by Virginia law, not the law of another state.” Fiberlink I, 24 Fed.Appx. at 181. Based on the magistrate judge’s determination that the claim accrued in 1997, Magarity argued that his claim was therefore timely under the Virginia three-year statute of limitations. Magarity also argued that even if the Virginia borrowing statute, Va.Code Ann. § 8.01-247, applied, “the record did not support the selection of California as the appropriate state.” Fiberlink I, 24 Fed.Appx. at 181.
+Section 8.01-247 applies if the contract is “governed by the law of another state.” Va.Code Ann. § 8.01-247 (Michie 2000). We held that under Virginia law the contract between Magarity and Fiberlink was “governed by the law of the state in which the contract was formed” but that it was impossible to determine where the contract was formed based on the existing record. Fiberlink I, 24 Fed.Appx. at 182. We also held that Magarity’s claim accrued in 1994, not in 1997. Id. at 188. Accordingly, we remanded for the magistrate judge to “(a) attempt to determine which foreign statute of limitations applies under § 8.01-247 of the Virginia Code and whether that statute bars Magarity’s claim or (b) consider whether Magarity’s claim is barred under the Virginia statute of limitations.” Id.
+On remand, Magarity argued that the running of the statute of limitations was tolled based on the principles of estoppel and equitable tolling. In a supplemental filing, Magarity, for the first time, raised the argument that he attempts to raise here — that his claim is a claim in equity to which no statute of limitations applies.
+In accordance with our mandate, the magistrate judge determined, based on additional stipulations by the parties, that the Virginia three-year statute of limitations applied because § 8.01-247 allows the borrowing of another state’s statute of limitations only when that statute of limitations is shorter than that of Virginia. Since Pennsylvania, the state in which it appeared the contract at issue was formed, has a four-year statute of limitations, the magistrate judge held that the shorter Virginia statute of limitations applied. Thus, the magistrate judge held that “Magarity’s claim for the issuance of Fiberlink’s common stock as part of his signing bonus is barred by the Virginia statute of limitations, given the Appeals Court’s holding that any related cause of action accrued at the time Magarity began working for Fiberlink in April 1994, and this Court’s present finding that only [two years and five months] can be excluded from the total period based on principles of equitable tolling and estoppel.” (J.A. at 160.) The magistrate judge ruled that Magarity was precluded from raising his new argument that no statute of limitations applied, but that even if Magarity could raise this new argument, his claim would still be barred by the equitable doctrine of unclean hands.
+Magarity argues on appeal that the magistrate judge erred in rejecting his new argument that his claim sounds in equity, and thus, that the judge erred in applying the Virginia statute of limitations. We review de novo the magistrate judge’s legal conclusion that Magarity was precluded from raising his new argument that his claim sounds in equity. United States v. United Med. and Surgical Supply Corp., 989 F.2d 1390, 1398 (4th Cir.1993).
+“It is elementary that where an argument could have been raised on an initial appeal, it is inappropriate to consider that argument on a second appeal following remand____The most rudimentary procedural efficiency demands that litigants present all available arguments to an appellate court on the first appeal.” Omni Outdoor Adver., Inc. v. Columbia Outdoor Adver., Inc., 974 F.2d 502, 505 (4th Cir. 1992) (internal quotation marks and citation omitted).
+If parties who lost on appeal were allowed to return to appellate courts to advance different, previously available theories, cases could languish for years before final resolution and already crowded court dockets would swell even more. In addition, it is not fair for an adversary to have to defend the same lawsuit on appeal over and over. “It would be absurd that a party who has chosen not to argue a point on a first appeal should stand better as regards the law of the case than one who had argued and lost.”
+Id. (quoting Fogel v. Chestnutt, 668 F.2d 100, 109 (2d Cir.1981)). Magarity does not argue that his new argument was unavailable to him on his initial appeal. Thus, it would be inappropriate for us to consider his argument on this appeal. Accordingly, we affirm the magistrate judge’s ruling that Magarity’s claim is time-barred.
+AFFIRMED.
+. Pursuant to 28 U.S.C.A. § 636(c) (West 1993 & Supp.2003), the parties consented to have the case tried by a magistrate judge.
+. As we noted in Fiberlink I,
+In some cases, Virginia applies a foreign limitations period in addition to its own, pursuant to a "borrowing statute.” This statute provides, “No action shall be maintained on any contract which is governed by the law of another state or country if the right of action thereon is barred either by the laws of such state or country or of this Commonwealth.” Va.Code Ann. § 8.01-247 (Michie 2000). Thus, if the contract between Magarity and Fiberlink is "governed by the law of another state,” then Magarity's claim is subject to the statute of limitations imposed by that state (as well as [the Virginia three-year statute of limitations]).
+Fiberlink I, 24 Fed.Appx. at 181.
