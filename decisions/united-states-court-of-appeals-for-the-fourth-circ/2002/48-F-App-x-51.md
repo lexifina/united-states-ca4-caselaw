@@ -1,0 +1,51 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "02-6800"
+decided: "2002-10-07"
+citations: ["48 F. App'x 51"]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Michael C. BRANNON, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/48/cases/0051-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1055650
+cites_cases: ["1 F.3d 246", "159 F.3d 1043", "20 F.3d 1458", "206 F.3d 404", "28 U.S.C. § 2253", "28 U.S.C. § 2255", "423 F.2d 526", "466 U.S. 668", "506 U.S. 364", "68 F.3d 238", "793 F.2d 898"]
+---
+
+# United States v. Brannon
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Michael C. BRANNON, Defendant-Appellant.
+No. 02-6800.
+United States Court of Appeals, Fourth Circuit.
+Submitted Sept. 16, 2002.
+Decided Oct. 7, 2002.
+Michael C. Brannon, Appellant Pro Se. Regan Alexandra Pendleton, Assistant United States Attorney, Greenville, South Carolina, for Appellee.
+Before LUTTIG, WILLIAMS, and MICHAEL, Circuit Judges.
+Vacated in part, dismissed in part, and remanded by unpublished PER CURIAM opinion.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+Michael C. Brannon appeals the dismissal of his 28 U.S.C. § 2255 (2000) motion. After a jury trial, Brannon was convicted of possession with intent to distribute cocaine base and sentenced to 360 months’ imprisonment. We have carefully considered the record on appeal and the arguments of the parties, and we find that Brannon has made a substantial showing of the denial of a constitutional right on his claim that his attorney provided ineffective assistance with regard to a possible guilty plea. Thus, we grant a certificate of appealability in part, vacate a portion of the district court’s order and remand for further proceedings consistent with this opinion.
+I.
+Brannon first argues that his attorney provided ineffective assistance by disregarding Brannon’s request to pursue a plea and advising Brannon to proceed to trial. In its unverified answer, the Government states that, on the strength of the case, the prosecutor decided to go to trial and elected not to enter into plea negotiations. The Government therefore asserts that, since counsel could not negotiate with an unwilling adversary, there was no ineffective assistance.
+The Government also submitted an affidavit from Brannon’s trial attorney which contradicted the Government’s own statements in its brief. Counsel avers that
+I explored the plea possibilities with Assistant U.S. Attorney, Harold Gowdy. If Brannon, pled guilty, it appeared he would receive a sentence in the fifteen (15) year range. If he stood trial and lost, he would receive in excess of thirty years. I strongly recommended a guilty plea, but he rejected it saying, after 15 years, his children would be in their late teens and he would miss them growing up. I reminded him that if he were found guilty, which I felt he would in trial and so advised him, that his children would be adults after 30 years.
+Thus, the parties’ statements are diametrically opposed. Brannon alleges that his attorney refused to seek a plea agreement on his behalf and incompetently urged him to go to trial. The attorney claims that he secured a tentative (and beneficial) plea offer that Brannon rejected. The Government claims that it declined to enter into plea negotiations. The district court rejected the claim without holding a hearing, finding that (1) a defense attorney cannot negotiate with an unwilling prosecutor and (2) Brannon could not show that he would have received a lighter sentence had he pled guilty.
+To succeed on a claim of ineffective assistance of counsel, a defendant must show that counsel’s performance was objectively unreasonable and that it prejudiced him. Lockhart v. Fretwell, 506 U.S. 364, 369-70,113 S.Ct. 838,122 L.Ed.2d 180 (1993). The norms of practice as set forth in the American Bar Association (“ABA”) Standards may serve as guides to determine what is reasonable professional assistance. Strickland v. Washington, 466 U.S. 668, 688, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984). In order to show prejudice, the defendant must show that, but for counsel’s error, the result of the proceeding would have been different. Id. at 694.
+A defense attorney should keep a defendant apprised of all developments in the plea negotiation process and communicate the prosecutor’s proposals promptly. Johnson v. Duckworth, 793 F.2d 898, 900-02 (7th Cir.1986). Erroneous advice during the plea negotiation process or the failure of a defense attorney to timely inform his client of a plea offer constitutes unreasonable professional assistance. See, e.g., Paters v. United States, 159 F.3d 1043, 1047-48 (7th Cir.1998) (holding that when appellant alleged attorney gave him erroneous advice during plea negotiations regarding the maximum sentence if he proceeded to trial, hearing warranted in district court to determine if defendant would have accepted the plea); United States v. Blaylock, 20 F.3d 1458, 1465-66 (9th Cir.1994) (failing to inform defendant of plea offer was unreasonable assistance).
+In this case, Brannon alleges that his attorney failed to pursue plea negotiations in a case where guilt was clear. In addition, assuming that his attorney did eon-duct negotiations as the attorney claims, Brannon impliedly contends that the plea offer was never communicated to him. We find that, in a case such as here where the evidence was strongly against Brannon, failure to pursue plea negotiations or failure to communicate a plea offer would be unreasonable assistance.
+If Brannon can show that he would have accepted a plea offered by the Government and that the sentence under the plea offer was less than the sentence ultimately imposed, he may be able to show prejudice. See Paters, 159 F.3d at 1047, Engelen v. United States, 68 F.3d 238, 241 (8th Cir.1995) (holding defendant could not show prejudice arising out of misadviee of defense attorney when there was no showing defendant would have accepted offer). Here, Brannon alleges he wanted to plead guilty, and his attorney asserts that a guilty plea would have decreased his sentence by fifty percent. Accordingly, Bran-non may be able to show prejudice.
+Based on the foregoing, we find that Brannon has a colorable claim of ineffective assistance of counsel and has made a substantial showing of the denial of a constitutional right, which is necessary for the issuance of a certificate of appealability. 28 U.S.C. § 2253 (2000). In finding that the Government would not have negotiated with Brannon and that Brannon would not have received a reduced sentence by pleading guilty, the district court accepted the Government’s unverified assertions and ignored counsel’s sworn statements that he had worked out a deal with the Government and that Brannon would have received a substantially reduced statement.
+Unless it is clear from the pleadings, files, and records that Brannon is not entitled to relief, § 2255 makes an evidentiary hearing mandatory. Raines v. United States, 423 F.2d 526, 529 (4th Cir.1970). The district court’s determination as to whether to hold a hearing under § 2255 is reviewed for abuse of discretion. Id. at 529-30. Notwithstanding the court’s wide discretion in the matter, there are a category of petitions, usually involving credibility, that will require an evidentiary hearing. Id. at 530.
+Because Brannon’s allegations, if believed, are sufficient to show ineffective assistance of counsel, and because the district court’s holding rests on disputed factual findings, the district court erred in resolving the case without a hearing. Thus, we vacate this portion of the district court’s order and remand for the district court to hold a hearing on this claim.
+II.
+Brannon next asserts that the federal government could not prosecute him, as the federal drug laws were pre-empted by the state drug laws covering the same behavior. As this claim is raised for the first time on appeal and Brannon has made no showing of exceptional circumstances, we will not address it. Muth v. United States, 1 F.3d 246, 250 (4th Cir.1993); First Virginia Banks, Inc. v. BP Exploration & Oil, Inc., 206 F.3d 404, 407 n. 1 (4th Cir.2000) (declining to consider issues raised for first time on appeal).
+III.
+Brannon suggests that the district court prevented him from filing a response to the Government’s answer. The Government’s answer was filed on November 21, 2001. On December 3, Brannon filed a letter stating that he was preparing a response and requesting that the court not render a decision until his response could be filed. The court entered its final order on March 26, 2002. In a letter dated April 1, Brannon requested reconsideration of the denial of his motion, because his response was not taken into account. However, Brannon did not file a copy of his proposed response. The district court denied the motion for reconsideration.
+Brannon had over four months to file a response, and he has failed to show any reason for his delay. Moreover, even on appeal, Brannon does not state what he wished to present in his response that was not considered by the court. Accordingly, the court did not err in deciding the case before Brannon filed a response.
+IV.
+We have considered Brannon’s remaining claims and find that he fails to make a substantial showing of the denial of a constitutional right for the reasons discussed by the district court. United States v. Brannon, No. CR-98-637; CA-01-1947-7-20 (D.S.C. March 26, 2002). Thus, we grant a certificate of appealability in part, vacate the portion of the district court’s order dismissing Brannon’s claim that he received ineffective assistance regarding a possible plea offer, remand that claim for a hearing, deny a certificate of appealability as to Brannon’s remaining claims, and dismiss the remainder of the appeal. We dispense with oral argument, because the facts and legal contentions are adequately presented in the materials before the court and argument would not aid the decisional process.
+VACATED IN PART, DISMISSED IN PART, AND REMANDED.
+While the Government asserts that it would not have bargained with Brannon’s counsel, this claim is in an unverified pleading and is contradicted by Brannon's counsel's affidavit.
