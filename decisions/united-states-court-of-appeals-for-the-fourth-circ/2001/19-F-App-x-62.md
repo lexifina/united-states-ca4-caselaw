@@ -1,0 +1,40 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "01-4048"
+decided: "2001-09-17"
+citations: ["19 F. App'x 62"]
+judges: ["Before WILLIAMS, MICHAEL, and TRAXLER, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Rashad Allen TAYLOR, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/19/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 239967
+cites_cases: ["114 F.3d 435", "16 F.3d 57", "18 U.S.C.A. § 371", "380 U.S. 445", "390 U.S. 377", "412 F.2d 26", "432 U.S. 98", "453 F.2d 908", "60 F.2d 689", "626 F.2d 77", "772 F.2d 482", "800 F.2d 437", "95 F.3d 17"]
+---
+
+# United States v. Taylor
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Rashad Allen TAYLOR, Defendant-Appellant.
+No. 01-4048.
+United States Court of Appeals, Fourth Circuit.
+Submitted July 31, 2001.
+Decided Sept. 17, 2001.
+Joseph N. Bowman, Alexandria, VA, for appellant. Kenneth E. Melson, United States Attorney, Michael E. Rich, Assistant United States Attorney, John T. Morton, Assistant United States Attorney, Alexandria, VA, for appellee.
+Before WILLIAMS, MICHAEL, and TRAXLER, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+Rashad Allen Taylor was found guilty of conspiracy to commit armed bank robbery, in violation of 18 U.S.C.A. § 371 (West 2000), after a retrial. On appeal, Taylor alleges that the district court erred in permitting introduction of a photo array identification and an in-court identification. He also argues that the district court violated his Sixth Amendment right to a jury trial by accepting a partial verdict. We affirm.
+Taylor appeals the district court’s denial of his motion to suppress the identification that bank employees Degraw and Barnes made from a photo array, arguing that the photo array shown to Degraw and Barnes was impermissibly suggestive because Taylor’s photo had a darker background then the others in the array and was the only photo in which the subject was smiling with a slight head tilt. Taylor also appeals the district court’s admission of Degraw’s in-court identification of Taylor, contending that the suggestiveness of the photo array impermissibly tainted the subsequent identification. In reviewing a denial of a motion to suppress, this Court reviews the district court’s factual findings for clear error and its legal conclusions de novo. See United States v. Johnson, 114 F.3d 435, 439 (4th Cir.1997).
+Courts engage in a two-step analysis when a defendant challenges an identification procedure. First, the defendant “must prove that the identification procedure was impermissibly suggestive. Once this threshold is crossed, the court then must determine whether the identification was nevertheless reliable under the totality of the circumstances.” Holdren v. Legursky, 16 F.3d 57, 61 (4th Cir.1994) (citations omitted). If the court concludes that the confrontation procedure was not impermissibly suggestive, the inquiry ends. United States v. Bagley, 772 F.2d 482, 492 (9th Cir.1985); cf. Harker v. Maryland, 800 F.2d 437, 444 (4th Cir.1986) (ending analysis after finding photographic array and show-up not impermissibly suggestive). If, however, the court finds the identification impermissibly suggestive, the court then determines whether under the totality of the circumstances, “there is ‘a very substantial likelihood of irreparable misidentification.’ ” Manson v. Brathwaite, 432 U.S. 98, 116, 97 S.Ct. 2243, 53 L.Ed.2d 140 (1977) (quoting Simmons v. United States, 390 U.S. 377, 384, 88 S.Ct. 967, 19 L.Ed.2d 1247 (1968)). The factors the court may consider in measuring the reliability of the identification are: “[1] the opportunity of the witness to view the criminal at the time of the crime, [2] the witness’ degree of attention, [3] the accuracy of his prior description of the criminal, [4] the level of certainty demonstrated at the confrontation, and [5] the time between the crime and the confrontation.” Manson, 432 U.S. at 114, 97 S.Ct. 2243.
+We have reviewed the record and conclude that, although the photo array itself and the accompanying in-court identification were not ideal, neither was impermissibly suggestive. The district court viewed the original photographs in the array and found that the differences between Taylor’s photo and the others included in the array were not so significant as to make the array impermissibly suggestive. The six photographs included in the array were all of black males with similar features, so that no one photo was particularly unique. With respect to the in-court identification, the district court found that Degraw had ample opportunity to observe Taylor, and Degraw testified confidently in her in-person, in-court identification. Moreover, cross-examination brought any possible flaws to the attention of the jury, and the weight and trustworthiness of Degraw’s and Barnes’ identification testimony properly was left to the jury. Accordingly, we conclude the district court did not err by admitting the photo array or the in-court identification testimony.
+Taylor next argues that he was denied his Sixth Amendment right to a jury trial. He asserts that when the jury announced its verdict on count one, it had not finished its deliberations, and there was a real possibility that further deliberations would have resulted in a hung jury on all counts.
+After four hours of deliberation, the jury sent a note asking, “[i]f we are not unanimous, what verdicts do I write?” (J.A. at 425.) In response, the district court instructed the jury as follows:
+The jury cannot reach a verdict unless it is unanimous; in other words, you cannot find the defendant guilty and you cannot find the defendant not guilty unless you are unanimous in your decision. So you need to work as vigorously as you can as a jury to see whether or not without violence to your individual judgments of the case you can reach a unanimous decision on any one or all four of the counts.
+(J.A. at 428-29.) After retiring for another hour, the jury sent a second note indicating that it was at an impasse as to counts two through four. The district court called the jury back in and asked if there was a unanimous verdict on count one. The foreperson stated that the jury had reached a unanimous verdict with respect to count one but could not reach a unanimous verdict on the remaining counts. The jury unanimously found Taylor guilty of count one, and the judge polled the jury and stated on the record that it “detected no hesitation or no distress on the part of any of those jurors ____” (J.A. at 435.)
+The district court has the legal authority to take a partial verdict in any criminal case involving multiple counts against a single defendant. See, e.g., United States v. Benedict, 95 F.3d 17, 19 (8th Cir.1996); United States v. Ross, 626 F.2d 77, 81 (9th Cir.1980); United States v. DeLaughter, 453 F.2d 908, 910 (5th Cir.1972); United States v. Barash, 412 F.2d 26, 31-32 (2nd Cir.1969) (citing United States v. Cotter, 60 F.2d 689, 690-91 (2nd Cir.1932)). The actions of the trial judge in context and under all the circumstances presented must be reviewed to determine if a judge’s instructions and actions had a coercive effect. Jenkins v. United States, 380 U.S. 445, 446, 85 S.Ct. 1059, 13 L.Ed.2d 957 (1965). We conclude that when the jury notes and the district court’s additional instructions are viewed in context, the district court’s handling of the jury’s inquiries by giving the additional instructions and calling in the jury for its verdict on the count it agreed upon did not have a coercive effect upon the jury’s verdict. The second note indicated a consensus on the first count, and therefore, it was not error to ask the jury if it had reached a unanimous verdict on that count.
+Therefore, we affirm Taylor’s conviction and sentence. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the Court and argument would not aid the decisional process.
+AFFIRMED.
