@@ -1,0 +1,39 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "00-4802"
+decided: "2001-05-01"
+citations: ["9 F. App'x 98"]
+judges: ["Before NIEMEYER, DIANA GRIBBON MOTZ, and TRAXLER, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. John Steven LeROSE, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/9/cases/0098-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 143597
+cites_cases: ["121 S.Ct. 1393", "18 U.S.C.A. § 1344", "219 F.3d 335", "235 F.3d 192", "26 U.S.C.A. § 7206", "29 F.3d 908", "395 U.S. 711", "5 F.3d 64", "50 F.3d 1267", "875 F.2d 427", "898 F.2d 28", "916 F.2d 157", "987 F.2d 1009"]
+---
+
+# United States v. LeRose
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. John Steven LeROSE, Defendant-Appellant.
+No. 00-4802.
+United States Court of Appeals, Fourth Circuit.
+Submitted March 30, 2001.
+Decided May 1, 2001.
+Benjamin L. Bailey, Leah Macia, Bailey & Glasser, L.L.P., Charleston, WV, for appellant. Rebecca A. Betts, United States Attorney, Susan M. Arnold, Assistant United States Attorney, Charleston, WV, for appellee.
+Before NIEMEYER, DIANA GRIBBON MOTZ, and TRAXLER, Circuit Judges.
+
+## Majority (PER CURIAM.)
+
+OPINION
+PER CURIAM.
+John Steven LeRose pleaded guilty to charges of executing, aiding and abetting a scheme or artifice to defraud a financial institution, see 18 U.S.C.A. § 1344 (West 2000), and filing a false income tax return, see 26 U.S.C.A. § 7206(1) (West 1989). The government appealed the sentence, challenging the district court’s downward departures. We concluded that the departures were improper and we therefore vacated the sentence and remanded for re-sentencing. See United States v. LeRose, 219 F.3d 335 (4th Cir.2000). After remand, the district court rejected LeRose’s challenges to the presentence investigation report and his requests for downward departures, and the court sentenced LeRose to twenty-seven months imprisonment. LeRose appeals.
+Preliminarily, we note that although the district court questioned whether it had authority to consider the grounds for departure and objections to the PSR that were advanced by LeRose for the first time on remand, the court nonetheless fully considered the arguments on the merits. While the district court ultimately rejected each argument, the district court allowed argument on each issue and then adequately explained its rulings. See United States v. Walker, 29 F.3d 908, 911 (4th Cir.1994) (stating that “a sentencing court need not articulate a finding as to disputed factual allegations with minute specificity” in order to comply with Fed.R.Crim.P. 32(c)(1) and that “adopting the PSR’s findings in toto is sufficient when the context of the ruling makes clear that the district court intended ... to rule on each of the alleged factual inaccuracies” (internal quotation marks omitted)); see also United States v. Terry, 916 F.2d 157, 162 (4th Cir.1990). Accordingly, we reject Le-Rose’s claim that the district court did not really consider the arguments but instead perfunctorily denied them so as to avoid reversal.
+LeRose challenges the district court’s denial of his requests for downward departure based on extraordinary restitution and exceptional community service. As to the community service question, because the district court recognized its authority to depart from the guidelines but determined that a departure was not warranted, the decision is not reviewable on appeal. See 18 U.S .C.A. § 3742(a) (West 2000); United States v. Bayerle, 898 F.2d 28, 30-31 (4th Cir.1990) (explaining that the denial of a downward departure is not appealable unless the district court acted under the misconception that it lacked discretion to depart from the guidelines). We therefore dismiss the appeal insofar as it challenges the district court’s refusal to depart downward based on LeRose’s community service.
+As to the restitution issue, the district court properly concluded that reconsideration of that issue was barred by this court’s determination in the first appeal that LeRose’s restitution efforts did not justify a downward departure. See United States v. Bell, 5 F.3d 64, 66 (4th Cir.1993) (“[I]t is indisputable that a lower court generally is bound to carry the mandate of the upper court into execution and may not consider the questions which the mandate laid at rest.” (internal quotation marks and alteration omitted)). The “new evidence” offered by LeRose in support of this claim is insufficient to reopen an issue fully considered and resolved by this court in the first appeal. See id. at 67 (noting that a lower court may reopen an issue decided on appeal under “extraordinary circumstances,” such as the surfacing of “significant new evidence, not earlier obtainable in the exercise of due diligence”).
+LeRose next claims the district court erred when determining the extent of loss under section 2F1.1(b)(1) of the United States Sentencing Guidelines Manual. We review a district court’s finding as to the amount of loss attributable to criminal conduct for clear error. See United States v. Castner, 50 F.3d 1267, 1274 (4th Cir.1995). The district court found that LeRose’s activities in the account over which he had control were in furtherance of the check kiting scheme and that the losses suffered by First Community Bank were foreseeable by LeRose. See U.S.S.G. § lB1.3(a)(l)(B); United States v. Gilliam, 987 F.2d 1009, 1012-13 (4th Cir.1993) (“[I]n order to attribute to a defendant for sentencing purposes the acts of others in jointly-undertaken criminal activity, those acts must have been within the scope of the defendant’s agreement and must have been reasonably foreseeable to the defendant.”). We find that attributing the total loss sustained by the bank to LeRose was not clear error.
+LeRose next contends the district court erred when it rejected LeRose’s argument that the offense level should be decreased because LeRose was only a minor or minimal participant in the criminal activity. See U.S.S.G. § 3B1.2. A determination that a defendant was not a minor or minimal participant will be overturned only if clearly erroneous. See United States v. White, 875 F.2d 427, 433-34 (4th Cir.1989). The court’s findings concerning the extent to which LeRose participated in and profited from the scheme are not clearly erroneous and justify the denial of the reduction.
+In his pro se brief, LeRose reasserts the issues discussed above and also contends that the increased sentence he received on remand was constitutionally impermissible. See North Carolina v. Pearce, 395 U.S. 711, 725, 89 S.Ct. 2072, 23 L.Ed.2d 656 (1969) (holding that due process requires that “vindictiveness against a defendant for having successfully attacked his first conviction must play no part in the sentence he receives after a new trial”). The increased sentence was the result of this court’s conclusion, after an appeal by the government, that the district court’s downward departures were impermissible. LeRose’s vindictiveness argument, therefore, is without merit.
+Finally, we have considered the Apprendi argument raised by LeRose in his pro se brief and likewise find it to be without merit. See United States v. Kinter, 235 F.3d 192, 202 (4th Cir.2000), cert. denied, — U.S. -, 121 S.Ct. 1393, —■ L.Ed.2d --- (2001).
+We therefore affirm the sentence imposed by the district court. We dismiss that portion of the appeal challenging the district court’s refusal to grant a downward departure based on LeRose’s community service. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the court and argument would not aid in the decisional process.
+AFFIRMED IN PART, DISMISSED IN PART.
