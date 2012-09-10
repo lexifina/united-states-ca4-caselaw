@@ -1,0 +1,32 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "12-6489"
+decided: "2012-09-10"
+citations: ["478 F. App'x 9"]
+judges: ["Before WILKINSON, DUNCAN, and DIAZ, Circuit Judges."]
+parties: ["UNITED STATES of America, Plaintiff-Appellee, v. Kevin Lamont DARDEN, a/k/a Magic, Defendant-Appellant."]
+source_url: "https://static.case.law/f-appx/478/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3991662
+cites_cases: ["18 U.S.C. § 3582"]
+---
+
+# United States v. Darden
+
+## Head matter
+
+UNITED STATES of America, Plaintiff-Appellee, v. Kevin Lamont DARDEN, a/k/a Magic, Defendant-Appellant.
+No. 12-6489.
+United States Court of Appeals, Fourth Circuit.
+Submitted: Aug. 28, 2012.
+Decided: Sept. 10, 2012.
+Kevin Lamont Darden, Appellant Pro Se. Eric M. Hurt, Assistant United States Attorney, Newport News, Virginia, for Ap-pellee.
+Before WILKINSON, DUNCAN, and DIAZ, Circuit Judges.
+
+## Majority (PER CURIAM:)
+
+Affirmed by unpublished PER CURIAM opinion.
+Unpublished opinions are not binding precedent in this circuit.
+PER CURIAM:
+Kevin Lamont Darden appeals the district court’s order denying his motion under 18 U.S.C. § 3582(c)(2) (2006) for reduction of sentence. We have reviewed the record and find no reversible error. Accordingly, we affirm for the reasons stated by the district court. United States v. Darden, No. 4:08-cr-00089-MSD-JEB-1 (E.D.Va. Mar. 1, 2012). We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before the court and argument would not aid the decisional process.
+AFFIRMED.
