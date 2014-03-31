@@ -1,0 +1,33 @@
+---
+court: "United States Court of Appeals for the Fourth Circuit"
+docket: "13-7591"
+decided: "2014-03-31"
+citations: ["564 F. App'x 9"]
+judges: ["Before MOTZ, Circuit Judge, and HAMILTON and DAVIS, Senior Circuit Judges."]
+parties: ["Marcus Le’Shawn DIXON, Petitioner-Appellant, v. Harold W. CLARK, Dir., D.O.C. of VA, Respondent-Appellee."]
+source_url: "https://static.case.law/f-appx/564/cases/0009-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5761467
+cites_cases: ["28 U.S.C. § 2253", "28 U.S.C. § 2254", "529 U.S. 473", "537 U.S. 322"]
+---
+
+# Dixon v. Clark
+
+## Head matter
+
+Marcus Le’Shawn DIXON, Petitioner-Appellant, v. Harold W. CLARK, Dir., D.O.C. of VA, Respondent-Appellee.
+No. 13-7591.
+United States Court of Appeals, Fourth Circuit.
+Submitted: March 27, 2014.
+Decided: March 31, 2014.
+Marcus Le’Shawn Dixon, Appellant Pro Se. Eugene Paul Murphy, Office of the Attorney General of Virginia, Richmond, Virginia, for Appellee.
+Before MOTZ, Circuit Judge, and HAMILTON and DAVIS, Senior Circuit Judges.
+
+## Majority (PER CURIAM:)
+
+Dismissed by unpublished PER CURIAM opinion.
+Unpublished opinions are not binding precedent in this circuit.
+PER CURIAM:
+Marcus Le’Shawn Dixon seeks to appeal the district court’s order denying relief on his 28 U.S.C. § 2254 (2012) petition. The order is not appealable unless a circuit justice or judge issues a certificate of ap-pealability. See 28 U.S.C. § 2253(c)(1)(A) (2012). A certificate of appealability will not issue absent “a substantial showing of the denial of a constitutional right.” 28 U.S.C. § 2253(c)(2) (2012). When the district court denies relief on the merits, a prisoner satisfies this standard by demonstrating that reasonable jurists would find that the district court’s assessment of the constitutional claims is debatable or wrong. Slack v. McDaniel, 529 U.S. 473, 484, 120 S.Ct. 1595, 146 L.Ed.2d 542 (2000); see Miller-El v. Cockrell, 537 U.S. 322, 336-38, 123 S.Ct. 1029, 154 L.Ed.2d 931 (2003). When the district court denies relief on procedural grounds, the prisoner must demonstrate both that the dispositive procedural ruling is debatable, and that the petition states a debatable claim of the denial of a constitutional right. Slack, 529 U.S. at 484-85, 120 S.Ct. 1595.
+We have independently reviewed the record and conclude that Dixon has not made the requisite showing. Accordingly, we deny Dixon’s motion to amend his petition, deny a certificate of appealability, and dismiss the appeal. We dispense with oral argument because the facts and legal contentions are adequately presented in the materials before this court and argument would not aid the decisional process.
+DISMISSED.
