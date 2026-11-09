@@ -115,6 +115,7 @@ def rebuild(repo: Path, ver: dict, have: set) -> tuple[dict[str, list[dict]], di
             old_rows[n] = None
     old_meta, old_total = {}, 0
     for spec, text in blobs(repo, [f'{head}:{n}' for n in old_rows]):
+        old_rows[spec.split(':', 1)[1]] = text
         for line in (text or '').splitlines():
             try:
                 j = json.loads(line)
@@ -159,7 +160,7 @@ def rebuild(repo: Path, ver: dict, have: set) -> tuple[dict[str, list[dict]], di
             stats['rows'] += 1
     stats['old_rows'] = old_total
     stats['files_read'] = len(files)
-    return overlay, {'head': head, 'old_files': list(old_rows), **stats}
+    return overlay, {'head': head, 'old_files': old_rows, **stats}
 
 
 def main():
@@ -174,6 +175,17 @@ def main():
     a = ap.parse_args()
     repo = Path(a.repo)
     t0 = time.time()
+    import shutil
+    if shutil.disk_usage(str(repo.resolve().anchor)).free < 42 * 2**30:  # the machine's floor is 40 GB: stop short of it
+        raise SystemExit(f'{repo.name}: under 42 GB free on the disk; not rebuilt')
+    if a.commit or a.push:  # one rebuild of a repo at a time (side-by-side workers)
+        lock = repo / '.git' / 'overlay-rebuild.lock'
+        try:
+            lock.mkdir()
+        except FileExistsError:
+            raise SystemExit(f'{repo.name}: another rebuild holds {lock}; left to it')
+        import atexit
+        atexit.register(lambda: lock.rmdir() if lock.exists() else None)
     if a.commit or a.push:  # start from origin's main: fast-forward to it, never past or around it
         git(repo, 'fetch', '-q', 'origin', 'main')
         local, remote = git(repo, 'rev-parse', 'refs/heads/main').strip(), git(repo, 'rev-parse', 'origin/main').strip()
@@ -201,6 +213,9 @@ def main():
             rows.sort(key=lambda x: (x['decided'], x['citation'], x['decision']))
             docs[f'judgments/{B.LAW_CORPUS}/{p[:-3]}.jsonl'] = ''.join(json.dumps(x, ensure_ascii=False, sort_keys=True) + '\n' for x in rows)
         gone = [f for f in st['old_files'] if f not in docs]
+        if not gone and all(st['old_files'].get(p) == t for p, t in docs.items()):
+            print(json.dumps({'repo': name, 'rows': n_rows, 'unchanged': True, 'pushed': True, 'head': st['head']}), flush=True)
+            return
         cj_text = git(repo, 'show', f"{st['head']}:corpus.json", check=False)
         try:
             cj = json.loads(cj_text)
@@ -240,7 +255,9 @@ def main():
         if a.push:
             git(repo, 'fetch', '-q', 'origin', 'main')
             if git(repo, 'rev-parse', 'origin/main').strip() != st['head']:
-                raise SystemExit(f'{name}: origin/main moved since {st["head"][:10]}; the commit is local only, rebuild on the new head')
+                # leave main where origin has it, not on a commit beside it (another agent works in this clone too)
+                git(repo, 'update-ref', 'refs/heads/main', git(repo, 'rev-parse', 'origin/main').strip(), st['new_head'], check=False)
+                raise SystemExit(f'{name}: origin/main moved since {st["head"][:10]}; nothing pushed, rebuild on the new head')
             for i in range(5):
                 pr = subprocess.run(['git', '-C', str(repo), '-c', 'http.postBuffer=1048576000', 'push', '-q', 'origin', 'main'], capture_output=True)
                 if not pr.returncode:
